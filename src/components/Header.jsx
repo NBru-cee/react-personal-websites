@@ -1,7 +1,10 @@
-import React from "react";
+import {MdLaptop, MdPhone, MdDesktopWindows,MdTablet} from 'react-icons/md'
 
 const Header = () => {
-    return <div>Header</div>;
+    return <header>
+        <h1>Bruce Inc</h1>
+        
+    </header>
 };
 
 export default Header;
